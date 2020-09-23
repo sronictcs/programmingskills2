@@ -28,7 +28,7 @@ cars[2] = "hyundai"
 print(cars)
 
 #to add to the end of list use .append()
-cars.append["ford"]
+cars.append("ford")
 print(cars)
 
 

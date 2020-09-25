@@ -2,7 +2,7 @@
 
 ##Using Lists to store data of the same type##
 
-#a list is made up of a list name and an = then [ and the items in speech marks lik below
+#a list is made up of a list name and an = then [ and the items in speech marks like below
 bicycles = ["trek", "cannondale", "redline", "specialized"]
 
 #to print a list use the print function and the name of the list
